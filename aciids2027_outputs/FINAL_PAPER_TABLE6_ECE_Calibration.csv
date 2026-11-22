@@ -1,0 +1,7 @@
+Backbone,Hierarchy Level,T*,Uncal. ECE (%),Cal. ECE (%),Rel. Drop
+SegFormer-B0,Level 3 (26 Classes),1.250,1.26%,0.23%,-81.4%
+SegFormer-B0,Level 2 (16 Classes),1.250,1.21%,0.21%,-82.7%
+SegFormer-B0,Level 1 (7 Groups),1.250,0.85%,0.13%,-84.7%
+SegFormer-B1,Level 3 (26 Classes),1.250,1.04%,0.18%,-82.5%
+SegFormer-B1,Level 2 (16 Classes),1.250,1.00%,0.18%,-82.5%
+SegFormer-B1,Level 1 (7 Groups),1.250,0.66%,0.15%,-77.0%

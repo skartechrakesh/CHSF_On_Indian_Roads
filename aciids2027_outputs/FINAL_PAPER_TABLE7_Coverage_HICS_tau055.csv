@@ -1,0 +1,7 @@
+Backbone,Method,L2+L1 Fallback,Total Coverage,HICS
+SegFormer-B0,Plain Baseline,0.00%,100.00%,94.79%
+SegFormer-B0,Abstain Ignore,0.00%,96.42%,93.13%
+SegFormer-B0,Hierarchical Fallback,2.04%,98.46%,94.09%
+SegFormer-B1,Plain Baseline,0.00%,100.00%,95.50%
+SegFormer-B1,Abstain Ignore,0.00%,97.20%,94.19%
+SegFormer-B1,Hierarchical Fallback,1.65%,98.85%,94.96%

@@ -1,0 +1,11 @@
+Level-3 Class,Level-2 Superclass,Level-1 Group,Pixels,Fallback (%)
+traffic light,traffic-device,road-side-objs,2953,19.91%
+parking,drivable-fallback,drivable,7,14.29%
+bicycle,2-wheeler,vehicles,3467,13.35%
+animal,person-animal,living-thing,1033,11.71%
+pole,pole-obs-fallback,road-side-objs,197863,11.43%
+fence,fence-guardrail,road-side-objs,103098,10.43%
+person,person-animal,living-thing,96560,8.49%
+guard rail,fence-guardrail,road-side-objs,40116,8.47%
+motorcycle,2-wheeler,vehicles,266188,6.08%
+rider,rider,living-thing,250840,5.84%

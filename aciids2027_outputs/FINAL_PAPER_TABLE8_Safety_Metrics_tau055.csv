@@ -1,0 +1,7 @@
+Backbone,Method,Kept L3 mIoU,SCMR,FDR
+SegFormer-B0,Plain Baseline,63.72%,3.88%,0.51%
+SegFormer-B0,Abstain Ignore,70.02%,2.44%,0.36%
+SegFormer-B0,Hierarchical Fallback,70.02%,3.08%,0.41%
+SegFormer-B1,Plain Baseline,68.25%,3.33%,0.41%
+SegFormer-B1,Abstain Ignore,73.65%,2.21%,0.30%
+SegFormer-B1,Hierarchical Fallback,73.65%,2.73%,0.34%

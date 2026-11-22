@@ -1,0 +1,13 @@
+{
+  "model": "segformer_b1",
+  "holdout_count": 687,
+  "holdout_loss": 0.1485825718924121,
+  "pixel_accuracy": 0.955032753663108,
+  "macro_miou": 0.5775401267299063,
+  "weighted_miou": 0.9178696364350392,
+  "macro_precision": 0.7072157849286005,
+  "macro_recall": 0.6326516944323045,
+  "macro_f1": 0.6582815869424155,
+  "weighted_f1": 0.9543284229693106,
+  "balanced_accuracy": 0.747679275238178
+}

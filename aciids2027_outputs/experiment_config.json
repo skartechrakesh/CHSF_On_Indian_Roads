@@ -1,0 +1,20 @@
+{
+  "dataset_id": "sounakp/idd-segmentation",
+  "dataset_root": "D:\\IDD_Dataset\\idd20kI",
+  "seed": 42,
+  "image_size": [
+    512,
+    1024
+  ],
+  "num_classes": 26,
+  "train_count": 6993,
+  "calibration_count": 294,
+  "holdout_count": 687,
+  "epochs": 25,
+  "lr_backbone": 6e-05,
+  "lr_head": 0.0006,
+  "weight_decay": 0.01,
+  "dropout_rate": 0.1,
+  "physical_batch_size": 4,
+  "gradient_accumulation_steps": 4
+}
